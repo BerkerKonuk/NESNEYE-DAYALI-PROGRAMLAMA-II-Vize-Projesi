@@ -8,6 +8,8 @@
 | :--- | :--- |
 | **Öğrenci No** | 20230108038 |
 | **Ders** | Nesneye Dayalı Programlama 2 |
+| **Ders Kodu** | BIP2037 |
+| **Öğretim Görevlisi** | Emrah Sarıçiçek |
 
 ### 🚀 Özellikler
 * **Kitap & Öğrenci Yönetimi:** Ekleme, silme ve listeleme.
